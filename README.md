@@ -21,6 +21,6 @@ After filtering the meaningless word，the word cloud shows that "Weinstein","#M
 
 The frequency of words in content with time
 
-Form the previous word count of title, the data shows "Weinstein","trump","#metoo" are the top frequent words when writing the title. so the line chart below shows how frequent these third words mentioned in the total articles with time.  the chart shows, in the beginning, the article mentions "Weinstein" very frequent. and then "trump" became more frequent in the early of November, and this situation continued while both of these figures decreased with time. Compared with "Weinstein" and "Trump", " #Metoo" had been mentioned less, even after January. 2018, the figure increased slightly.
+Form the previous word count of title, the data shows "Weinstein","trump","#metoo" are the top frequent words when writing the title. so the line chart shows how frequent these third words mentioned in the total articles with time.  the chart shows, in the beginning, the article mentions "Weinstein" very frequent. and then "trump" became more frequent in the early of November, and this situation continued while both of these figures decreased with time. Compared with "Weinstein" and "Trump", " #Metoo" had been mentioned less, even after January. 2018, the figure increased slightly.
 
 As for the frequency of reporting "sexual harassment", the chart shows during the middle of December, the number of reports reached the peak, and after that, the figures decreased with time.
