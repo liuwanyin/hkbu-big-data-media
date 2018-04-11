@@ -10,17 +10,4 @@ Analysis:
 
      The frequency of title words use
      The frequency of topwords use in content with time
-
-The data of these case is from the New York Times. The method of attaining data is through the API of NYT, gaining jason file of the article data and then analyzing it.
-
-When searching the keyword "sexual harassment" on NYT website from 20171001 to 2018323, the results show there are 1660. through the API of NYT, the data of 1660 articles title, releasing time and the content were gained.
-
-The frequency of title words use
-
-After filtering the meaningless word，the word cloud shows that "Weinstein","#Metoo","Women" are the most frequent words when reporting sexual harassment on NYT. It indicates that Weinstein is the absolute subjector of coverage on NYT. Besides, "Women" is the second significant word when journalists and editors write the news of title. It shows, at least on NYK times, sexual harassment is closely related to gender problem. #Metoo the name of online social movement of anti-sexual harassment, is the third frequent words of title using, which means the influence of online social media towards traditional media.
-
-The frequency of words in content with time
-
-Form the previous word count of title, the data shows "Weinstein","trump","#metoo" are the top frequent words when writing the title. so the line chart shows how frequent these third words mentioned in the total articles with time.  the chart shows, in the beginning, the article mentions "Weinstein" very frequent. and then "trump" became more frequent in the early of November, and this situation continued while both of these figures decreased with time. Compared with "Weinstein" and "Trump", " #Metoo" had been mentioned less, even after January. 2018, the figure increased slightly.
-
-As for the frequency of reporting "sexual harassment", the chart shows during the middle of December, the number of reports reached the peak, and after that, the figures decreased with time.
+     The frequency of the coverage
