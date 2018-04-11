@@ -4,7 +4,7 @@ Website url:
 
 Data:
 
-　　the data of 1660 articles title about "sexual harassment" on NYT from 2017-10-01 to 2018-03-23 )
+　　the data contains 1660 articles reporting "sexual harassment" on NYT from 2017-10-01 to 2018-03-23 
 
 Analysis:
 
