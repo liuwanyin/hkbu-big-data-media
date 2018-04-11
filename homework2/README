@@ -1,5 +1,7 @@
 Data source
-the data of 1660 articles title about "sexual harassment" on NYT from 2017-10-01 to 2018-03-23 )
+the data contain 1660 articles about "sexual harassment" on NYT from 2017-10-01 to 2018-03-23 )
+The data of these case is from the New York Times. The method of attaining data is using the API of NYT, gaining jason file of the article data and then analyzing it.
+
 Website url: 　　https://www.nytimes.com/search/sexual%20harassment/newest/20180102/20180323
 
 Data fields：
