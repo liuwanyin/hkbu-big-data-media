@@ -8,6 +8,7 @@ Analysis:
 
  The frequency of title words use
  The frequency of topwords use in content with time
+ the frequency of coverage
 The data of these case is from the New York Times. The method of attaining data is through the API of NYT, gaining jason file of the article data and then analyzing it.
 
 When searching the keyword "sexual harassment" on NYT website from 20171001 to 2018323, the results show there are 1660. through the API of NYT, the data of 1660 articles title, releasing time and the content were gained.
